@@ -1,4 +1,4 @@
-#Generador De Nombres Aleatorios
+# Generador De Nombres Aleatorios
 
 Repositorio de la aplicacion generador de nombres aleatorios de canales de youtube hecha en javascript
 
